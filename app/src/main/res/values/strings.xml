@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">qweeedly</string>
+    <string name="nameHint">Имя</string>
+    <string name="stateHint">Статус</string>
+    <string name="ageHint">Возраст</string>
+    <string name="save">Сохранить</string>
+    <string name="signIn">Вход</string>
+    <string name="loginHint">Логин</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="goSignIn">Войти</string>
+    <string name="NullParametersMessage">Не все поля заполненны!</string>
+    <string name="CantSignInMessage" />
+    <string name="goSignUp">Зарегистрироваться</string>
+    <string name="UserExistMessage">Пользователь существует</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_profile_maps">Map</string>
+</resources>
